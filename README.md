@@ -9,7 +9,7 @@ User Interaction: The system allows users to input the name of a fruit or vegeta
 
 
 
-technologies Used :
+Technologies Used :
 
 ->TensorFlow/Keras: For building and loading the CNN classification model.
 ->PyBullet: For robot and object simulation with physics.
